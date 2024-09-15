@@ -434,4 +434,6 @@ docs(readme): update installation instructions for v2.0
 refactor(performance): optimize database queries for user listing
 ```
 
-備註：3.5 資料來源：https://hackmd.io/@dh46tw/S1NPMsy5L
+備註：
+1. 3.5 資料來源：https://hackmd.io/@dh46tw/S1NPMsy5L
+2. 上述內容部分藉由 Claude 3.5 Sonnet LLM 整理
